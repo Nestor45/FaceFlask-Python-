@@ -1,6 +1,4 @@
-from ast import dump
 import datetime
-from shutil import which
 from peewee import *
 from flask_login import UserMixin
 from flask_bcrypt import generate_password_hash

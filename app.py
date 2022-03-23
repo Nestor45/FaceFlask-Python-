@@ -1,4 +1,3 @@
-
 from flask import Flask, g, render_template, flash, url_for, redirect, abort
 from flask_login import LoginManager, login_user, login_required, current_user,logout_user, AnonymousUserMixin
 from flask_bcrypt import check_password_hash
