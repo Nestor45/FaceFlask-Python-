@@ -1,0 +1,11 @@
+# FaceFlask-Python-
+install python 3.7
+install peewee
+install flask-bcrypt
+install flask-wtf
+install flask-login
+
+
+REGISTER USERS AND FOLLOW, UNFOLLOW, POST A COMMENT
+
+REGISTRAR USUARIOS, SEGUIR AUN USUARIO, DEJAR DE SEGUIR Y HACER UN COMENTARIO, TODO ESTO SE ALMACENA EN UNA BASE DE DATOS SQLITE
